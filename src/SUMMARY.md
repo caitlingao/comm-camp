@@ -47,6 +47,10 @@
     - [第22讲课程内容](./chapter_25_1.md)
 - [day26 呈现：怎样作汇报/提案？](./chapter_26.md)
     - [第23讲课程内容](./chapter_26_1.md)
+- [day27 MOT：怎样做晋升答辩？](./chapter_27.md)
+    - [第24讲课程内容](./chapter_27_1.md)
+- [最终知识地图](./chapter_end.md)
+
 
 
 
